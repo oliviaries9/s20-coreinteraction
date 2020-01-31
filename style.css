@@ -1,5 +1,159 @@
+     
+body{
+	background-color: #e6efff;
+}
+
 #hello{
 	font-family: bookmania;
 	font-weight: bold;
 	font-size: 3vw;
+	color: #40444a;    
+	margin-left: 7vw;
 }
+
+.links{
+	font-family: bookmania;
+	font-size: 1.6vw;
+}
+
+
+
+
+#name{
+    font-family: helvetica;
+    margin-left: 6.5vw;
+    font-size: 1.5vw;
+    line-height: 3vw;
+    background: white;
+    margin-right: 50vw;
+    margin-top: 26px;
+    margin-bottom: -30px;
+    opacity: 80%;
+    padding: 25px;
+}
+
+#name:hover{
+	background-color: black;
+	color:cornflowerblue;
+	opacity: 100%;
+}
+
+#studiotitle{
+	 font-family: helvetica;
+    font-style: italic;
+    font-size: 4.3vw;
+    background: cornflowerblue;
+    margin-left: 6vw;
+    margin-top: 5vw;
+    margin-right: 65vw;
+    padding: 20px;
+    color: white;
+    box-shadow: darkblue 5px 10px;
+
+}
+
+#studiotitle:hover{
+	background-color: black;
+}
+
+#lab{    
+font-family: helvetica;
+    font-style: italic;
+    font-size: 4.3vw;
+    background: cornflowerblue;
+    margin-left: 45vw;
+    margin-top: -13vw;
+    margin-right: 65vw;
+    padding: 20px;
+    color: white;
+    box-shadow: darkblue 5px 10px;
+    float: right;
+    position: absolute;
+
+}
+
+#lab:hover{
+	background-color: black;
+}
+
+
+#hana{
+    margin-top: 80px;
+    margin-left: 40px;
+    margin-right: 80vw;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+#hana:hover{
+	background-color: white;
+		cursor: pointer;
+
+}
+
+
+#aishah{
+	text-decoration: none;
+    background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80vw;
+    position: absolute;
+    margin-left: 30vw;
+    width: 13vw;
+    margin-top: -50px;
+}
+
+#aishah:hover{
+		background-color: white;
+	cursor: pointer;
+
+}
+
+
+
+#duncan{
+	background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80vw;
+    position: absolute;
+	width:15vw;
+	margin-left: 55vw;
+    margin-top: -3.5vw;
+}
+
+#duncan:hover{
+	background-color: white;
+	cursor: pointer;
+
+}
+
+#jodi{
+	background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80vw;
+    position: absolute;
+	width:15vw;
+	margin-top: 150px;
+    margin-left: 40px;
+
+}
+
+#jodi:hover{
+	background-color: white;
+	cursor: pointer;
+}
+
