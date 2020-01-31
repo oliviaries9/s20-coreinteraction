@@ -9,6 +9,7 @@ body{
 	font-size: 3vw;
 	color: #40444a;    
 	margin-left: 7vw;
+
 }
 
 .links{
@@ -161,14 +162,15 @@ font-family: helvetica;
 #tyler{
 	background-color: cornflowerblue;
     box-shadow: darkblue 5px 5px;
-    padding-left: 30px;
+    padding-left: 35px;
     padding-top: 10px;
     padding-bottom: 10px;
     margin-right: 80vw;
     position: absolute;
-	width:15vw;
-	margin-top: 150px;
-    margin-left: 90px;
+    width: 15vw;
+    margin-top: 150px;
+    margin-left: 30vw;
+
 
 }
 
@@ -176,3 +178,198 @@ font-family: helvetica;
 	background-color: white;
 	cursor: pointer;
 	}
+
+
+#ayline:hover{
+	background-color: white;
+	cursor: pointer;
+	}
+
+#ayline{
+	background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80vw;
+    position: absolute;
+    width: 15vw;
+    margin-top: 150px;
+    margin-left: 55vw;
+
+}
+
+#students{    
+	font-family: helvetica;
+    font-size: 3vw;
+    margin-top: 8vw;
+    margin-left: 40px;
+    background: white;
+    padding: 20px;
+    margin-right: 77vw;
+}
+
+
+#ilan:hover{
+	background-color: white;
+	cursor: pointer;
+	}
+
+#ilan{
+	background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80vw;
+    position: absolute;
+	width:15vw;
+	margin-top: 350px;
+    margin-left: 40px;
+    margin-bottom: 70px;
+}
+
+
+#amy:hover{
+	background-color: white;
+	cursor: pointer;
+
+}
+
+#amy{
+	background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80vw;
+    position: absolute;
+	width:15vw;
+	margin-top: 350px;
+    margin-left: 30vw;
+    margin-bottom: 70px;
+
+}
+
+#victoria:hover{
+	background-color: white;
+	cursor: pointer;
+}
+
+#victoria{
+	background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80vw;
+    position: absolute;
+	width:15vw;
+	margin-top: 550px;
+    margin-left: 40px;
+    margin-bottom: 70px;
+}
+
+#michelle:hover{
+	background-color: white;
+	cursor: pointer;
+}
+
+#michelle{
+	background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80vw;
+    position: absolute;
+    width: 15vw;
+    margin-top: 350px;
+    margin-left: 55vw;
+}
+
+#freeze:hover{
+	background-color: white;
+	cursor: pointer;
+}
+
+#freeze{
+	background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80vw;
+    position: absolute;
+	width:15vw;
+	margin-top: 550px;
+    margin-left: 30vw;
+    margin-bottom: 70px;
+}
+
+#isabella:hover{
+	background-color: white;
+	cursor: pointer;
+}
+
+#isabella{
+	background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80vw;
+    position: absolute;
+    width: 15vw;
+    margin-top: 550px;
+    margin-left: 55vw;
+
+}
+
+#noya:hover{
+	background-color: white;
+	cursor: pointer;
+
+}
+
+#noya{
+	text-decoration: none;
+	background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80vw;
+    position: absolute;
+	width:15vw;
+	margin-top: 750px;
+    margin-left: 40px;
+    margin-bottom: 70px;
+}
+
+#erin:hover{
+	background-color: white;
+	cursor: pointer;
+}
+
+
+#erin{
+	background-color: cornflowerblue;
+    box-shadow: darkblue 5px 5px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 80vw;
+    position: absolute;
+	width:15vw;
+	margin-top: 750px;
+    margin-left: 30vw;
+    margin-bottom: 70px;
+}
+
+
+
+
+
+
+
