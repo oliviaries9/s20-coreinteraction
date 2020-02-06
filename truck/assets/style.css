@@ -1,5 +1,84 @@
-.box1{
-	border: solid 10px darkgrey;
+.line1{
+	border: solid 7px darkgrey;
 	color:lightgrey;
+	margin-top: 90px;
+	margin-bottom: 30px;
 
 }
+
+.line2{
+	border: solid 5px;
+	color:lightgrey;
+	margin-top: 80px;
+}
+
+.line3{
+	border: solid 5px;
+	color:lightgrey;
+	margin-top: 80px;
+	margin-bottom: 30vw;
+
+}
+
+.triangle {
+  width: 0; 
+  height: 0; 
+  border-left: 25vw solid transparent;
+  border-right: 25vw solid transparent;
+  border-bottom: 40vw solid #ebbd34;
+  background-color: none;
+  position: absolute;
+  z-index: 950;
+  margin-left: 27vw;
+  margin-top: 15px;
+
+
+}
+
+.triangle-two {
+  width: 0; 
+  height: 0; 
+  border-left: 27vw solid transparent;
+  border-right: 27vw solid transparent;
+  border-bottom: 42vw solid navy;
+  background-color: none;
+
+  z-index: 900;
+  align-content: center;
+  margin-left: 25vw;
+  text-anchor: 
+
+}
+
+.text{
+	font-weight: bold;
+	font-size: 16vw;
+	color:navy;
+	position: absolute;
+	z-index: 960;
+	margin-top: 26vw;
+	margin-left: 25vw;
+	font-family: bookmania;
+
+}
+
+
+.letter{
+	font-family: sans-serif;
+	font-weight: normal; 
+	font-size: 9vw;
+	color:navy;
+	position: absolute;
+	margin-left: 96vw;
+	margin-top: -10vw;
+}
+
+
+
+
+
+
+
+
+
+
