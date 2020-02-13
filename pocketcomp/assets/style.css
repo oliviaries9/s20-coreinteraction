@@ -1,6 +1,7 @@
 html, body{
 	margin: 0;
 	padding: 0;
+	background-color: #edfeff;
 
 }
 
@@ -72,3 +73,69 @@ html{
 	margin-top: 10vw;
 	margin-left: 30vw;
 }
+
+
+
+
+@media (max-width: 400px){
+	#column1{
+		font-size:2vw;
+		margin-left: 20vw;
+		color: white;
+	}
+	#column1:hover{
+		color: cornflowerblue ;
+		background-color: black
+	}
+
+	#column2{
+		background-color: white;
+		color:  #142a3d;
+	}
+
+	#column3{
+		display:none;
+	}
+
+	#column4{
+		margin-left: 0vw;
+
+	}
+
+
+
+
+
+}
+
+@media (min-width: 1000px){
+	#column1{
+		border-radius: 40%;
+		margin-left: 10vw;
+		margin-right: 10vw;
+		padding:10vw;
+		font-family: sans-serif;
+		color: #c439bb;
+	}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
