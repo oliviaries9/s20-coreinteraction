@@ -1,7 +1,15 @@
 html, body{
 	margin: 0;
 	padding: 0;
-	background-color: black;
 
 }
 
+html{
+	font-size: 1.5vw;
+	font-family: monospace;
+}
+
+#column1{
+	background-color: cornflowerblue;
+	padding: 30px;
+}
