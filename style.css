@@ -380,3 +380,62 @@ font-family: helvetica;
 .move:hover{
 	cursor: pointer;
 }
+
+
+
+
+
+#labtitle{ 
+     font-family: helvetica;
+    font-style: italic;
+    font-size: 4.3vw;
+    background: cornflowerblue;
+    margin-left: 6vw;
+    margin-top: 5vw;
+    margin-right: 65vw;
+    padding: 20px;
+    color: white;
+    box-shadow: darkblue 5px 10px;
+
+}
+
+#project1{
+    display: inline-block;
+    position: absolute;
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 1vw;
+    background-color: white;
+    color: black 80%;
+    margin-top: 2vw;
+    margin-left: 5vw;
+    padding: 20px;
+    box-shadow: #363a45 3px 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
