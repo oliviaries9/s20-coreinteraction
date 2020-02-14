@@ -399,6 +399,10 @@ font-family: helvetica;
 
 }
 
+#labtitle:hover{
+    background-color: black;
+}
+
 #project1{
     display: inline-block;
     position: absolute;
@@ -413,7 +417,20 @@ font-family: helvetica;
     box-shadow: #363a45 3px 6px;
 }
 
+#project2{
+    display: inline-block;
+    position: absolute;
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 1vw;
+    background-color: white;
+    color: black 80%;
+    margin-top: 2vw;
+    margin-left: 30vw;
+    padding: 20px;
+    box-shadow: #363a45 3px 6px;
 
+}
 
 
 
