@@ -1,0 +1,32 @@
+html, body{
+	background-color: none;
+}
+
+
+#stem{
+	background-color: #523b1b;
+	width: 29vw;
+	height: .5vw;
+	position: fixed;
+	border: solid 5rem #523b1b;
+	margin-left: 30vw;
+	margin-top: 19vw;
+	z-index: 900;
+}
+
+#pot{
+	background-color: #6fcaf7;
+	width: 30rem;
+	height: 5rem;
+	position: fixed;
+	display: block;
+	border: solid 5rem #6fcaf7;
+	margin-left: 28vw;
+	margin-top: 20vw;
+	z-index: 950;
+	box-shadow: #4e8ead 0px 9px;
+}
+
+#plant1{
+
+}
