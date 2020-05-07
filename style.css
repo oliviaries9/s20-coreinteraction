@@ -438,13 +438,42 @@ font-family: helvetica;
 }
 
 
+#project3{
+    display: inline-block;
+    position: absolute;
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 1vw;
+    background-color: white;
+    color: black 80%;
+    margin-top: 2vw;
+    margin-left: 37vw;
+    padding: 20px;
+    box-shadow: #363a45 3px 6px;
+
+
+}
 
 
 
 
 
 
+#project4{
+    display: inline-block;
+    position: absolute;
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 1vw;
+    background-color: white;
+    color: black 80%;
+    margin-top: 8vw;
+    margin-left: 5vw;
+    padding: 20px;
+    box-shadow: #363a45 3px 6px;
 
+
+}
 
 
 
