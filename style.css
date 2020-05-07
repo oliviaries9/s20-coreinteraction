@@ -56,6 +56,7 @@ a{ text-decoration: none;
 
 #studiotitle:hover{
 	background-color: black;
+    cursor: pointer;
 }
 
 #lab{    
