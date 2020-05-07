@@ -7,6 +7,10 @@ a{ text-decoration: none;
 
 }
 
+a:visited{
+    color:white;
+}
+
 #hello{
 	font-family: bookmania;
 	font-weight: bold;
@@ -57,7 +61,9 @@ a{ text-decoration: none;
 #studiotitle:hover{
 	background-color: black;
     cursor: pointer;
+
 }
+
 
 #lab{    
 font-family: helvetica;
@@ -414,7 +420,7 @@ font-family: helvetica;
     font-family: helvetica;
     font-style: italic;
     font-size: 1vw;
-    background-color: white;
+    background-color: cornflowerblue;
     color: black 80%;
     margin-top: 2vw;
     margin-left: 5vw;
@@ -428,7 +434,7 @@ font-family: helvetica;
     font-family: helvetica;
     font-style: italic;
     font-size: 1vw;
-    background-color: white;
+    background-color: cornflowerblue;
     color: black 80%;
     margin-top: 2vw;
     margin-left: 30vw;
@@ -444,9 +450,9 @@ font-family: helvetica;
     font-family: helvetica;
     font-style: italic;
     font-size: 1vw;
-    background-color: white;
+    background-color: cornflowerblue;
     color: black 80%;
-    margin-top: 2vw;
+    margin-top: 8vw;
     margin-left: 37vw;
     padding: 20px;
     box-shadow: #363a45 3px 6px;
@@ -465,15 +471,30 @@ font-family: helvetica;
     font-family: helvetica;
     font-style: italic;
     font-size: 1vw;
-    background-color: white;
+    background-color:cornflowerblue ;
     color: black 80%;
     margin-top: 8vw;
     margin-left: 5vw;
-    padding: 20px;
-    box-shadow: #363a45 3px 6px;
-
+    padding: 30px;
+    box-shadow: #363a45 0px 6px;
+    outline: none;
 
 }
+
+#back{
+    position: absolute;
+    font-family: helvetica;
+    font-style: italic;
+    margin-top: -5vw;
+    background-color:black;
+    padding:10px;
+}
+
+.projects:hover{
+    background-color: black;
+}
+
+
 
 
 
