@@ -423,7 +423,7 @@ font-family: helvetica;
     background-color: cornflowerblue;
     color: black 80%;
     margin-top: 2vw;
-    margin-left: 5vw;
+    margin-left: 6vw;
     padding: 20px;
     box-shadow: #363a45 3px 6px;
 }
@@ -436,8 +436,8 @@ font-family: helvetica;
     font-size: 1vw;
     background-color: cornflowerblue;
     color: black 80%;
-    margin-top: 2vw;
-    margin-left: 30vw;
+    margin-top: 14vw;
+    margin-left: 6vw;
     padding: 20px;
     box-shadow: #363a45 3px 6px;
 
@@ -452,8 +452,8 @@ font-family: helvetica;
     font-size: 1vw;
     background-color: cornflowerblue;
     color: black 80%;
-    margin-top: 8vw;
-    margin-left: 37vw;
+    margin-top: 20vw;
+    margin-left: 6vw;
     padding: 20px;
     box-shadow: #363a45 3px 6px;
 
@@ -474,8 +474,8 @@ font-family: helvetica;
     background-color:cornflowerblue ;
     color: black 80%;
     margin-top: 8vw;
-    margin-left: 5vw;
-    padding: 30px;
+    margin-left: 6vw;
+    padding:20px;
     box-shadow: #363a45 0px 6px;
     outline: none;
 
@@ -498,11 +498,65 @@ font-family: helvetica;
 
 
 
+.studiotitle-2{
+     font-family: helvetica;
+    font-style: italic;
+    font-size: 4.3vw;
+    background: cornflowerblue;
+    margin-left: 6vw;
+    margin-top: 5vw;
+    margin-right: 65vw;
+    padding: 20px;
+    color: white;
+    box-shadow: darkblue 5px 10px;
+}
 
 
 
 
 
+#cards{
+    display: inline-block;
+    position: absolute;
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 1vw;
+    background-color: cornflowerblue;
+    color: black 80%;
+    margin-top: 2vw;
+    margin-left: 6vw;
+    padding: 20px;
+    box-shadow: #363a45 3px 6px;
+
+}
+
+#clock{
+        display: inline-block;
+    position: absolute;
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 1vw;
+    background-color: cornflowerblue;
+    color: black 80%;
+    margin-top: 14vw;
+    margin-left:6vw;
+    padding: 20px;
+    box-shadow: #363a45 3px 6px;
+}
+
+#horror{
+    display: inline-block;
+    position: absolute;
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 1vw;
+    background-color: cornflowerblue;
+    color: black 80%;
+    margin-top: 8vw;
+    margin-left: 6vw;
+    padding: 20px;
+    box-shadow: #363a45 3px 6px;
+}
 
 
 
